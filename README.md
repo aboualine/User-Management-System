@@ -150,10 +150,6 @@ Then visit `http://localhost:8000` in your browser.
 
 ---
 
-## 💡 Contribution
-Want to contribute? Feel free to fork and submit a PR! 🎉
-
----
 
 ## 📄 License
 MIT License - Use this project freely!
