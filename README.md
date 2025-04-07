@@ -152,5 +152,5 @@ Then visit `http://localhost:8000` in your browser.
 
 
 ## 📄 License
-MIT License - Use this project freely!
+MIT [LICENSE](LICENSE) - Use this project freely!
 
